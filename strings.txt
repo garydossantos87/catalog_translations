@@ -1,4 +1,4 @@
 [catalogs]
 	tags = android,ios
-    en = CatalogsTEst
+    en = Catalogs
     es = Catálogos
