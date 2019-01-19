@@ -2,3 +2,7 @@
 	tags = android,ios
     en = Catalogs
     es = Catálogos
+[coupon]
+	tags = android,ios
+		en = Coupon
+		es = Cupón
