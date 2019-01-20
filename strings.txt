@@ -34,3 +34,11 @@
 	tags = android,ios
 		en = The default browser of your phone will open
 		es = Se abrirá el browser por defecto de tu teléfono
+[start_phone]
+	tags = android,ios
+		en = Do you want to call this number?
+		es = ¿Quieres llamar a este número?
+[open_phone_message]
+	tags = android,ios
+		en = Your phone's calling application will open
+		es = Se abrirá la aplicación de llamada de tu teléfono
