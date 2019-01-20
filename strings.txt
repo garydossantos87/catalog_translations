@@ -26,3 +26,11 @@
 	tags = android,ios
 		en = Allow
 		es = Permitir
+[start_browser]
+	tags = android,ios
+		en = Do you want to see the website of the store?
+		es = ¿Quieres ver la web de la tienda?
+[open_browser_message]
+	tags = android,ios
+		en = The default browser of your phone will open
+		es = Se abrirá el browser por defecto de tu teléfono
