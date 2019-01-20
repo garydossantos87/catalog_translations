@@ -6,3 +6,7 @@
 	tags = android,ios
 		en = Coupon
 		es = Cupón
+[store_detail]
+	tags = android,ios
+		en = Store detail
+		es = Detalle de la tienda
