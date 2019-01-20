@@ -10,3 +10,19 @@
 	tags = android,ios
 		en = Store detail
 		es = Detalle de la tienda
+[start_navigation]
+	tags = android,ios
+		en = Do you want to start navigation?
+		es = ¿Quieres iniciar navegación?
+[open_maps_message]
+	tags = android,ios
+		en = Your phone's map application will open
+		es = Se abrirá la aplicación de mapas de tu teléfono
+[cancel]
+	tags = android,ios
+		en = Cancel
+		es = Cancelar
+[allow]
+	tags = android,ios
+		en = Allow
+		es = Permitir
