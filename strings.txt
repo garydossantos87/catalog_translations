@@ -42,3 +42,7 @@
 	tags = android,ios
 		en = Your phone's calling application will open
 		es = Se abrirá la aplicación de llamada de tu teléfono
+[error_nearest_store]
+	tags = android,ios
+		en = There is no store near
+		es = No hay ninguna tienda cerca
