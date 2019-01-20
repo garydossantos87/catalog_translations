@@ -46,3 +46,11 @@
 	tags = android,ios
 		en = There is no store near
 		es = No hay ninguna tienda cerca
+[unexpected_error_title]
+	tags = android,ios
+		en = Oh, wow!
+		es = ¡Oh, vaya!
+[accept]
+	tags = android,ios
+		en = Accept
+		es = Aceptar
